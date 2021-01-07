@@ -18,7 +18,7 @@ export class QuoteContainer extends React.Component{
 
   }
   componentDidMount(){
-    const url = "https://talaikis.com/api/quotes/random/";
+    const url = "http://api.quotable.io/random";
     axios
      .get(url)
      .then(response => {
@@ -27,8 +27,8 @@ export class QuoteContainer extends React.Component{
        this.setState({
          loading:false,
          author:quoteResponse.author,
-         quote:quoteResponse.quote,
-         category:quoteResponse.cat,
+         quote:quoteResponse.content,
+         category:quoteResponse.tags[0],
        })
      })
      .catch(error => console.log(error));
