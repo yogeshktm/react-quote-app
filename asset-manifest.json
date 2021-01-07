@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-quote-app/static/css/main.09d5a292.chunk.css",
-  "main.js": "/react-quote-app/static/js/main.56912aa0.chunk.js",
-  "main.js.map": "/react-quote-app/static/js/main.56912aa0.chunk.js.map",
-  "static/js/1.9b9b3b5b.chunk.js": "/react-quote-app/static/js/1.9b9b3b5b.chunk.js",
-  "static/js/1.9b9b3b5b.chunk.js.map": "/react-quote-app/static/js/1.9b9b3b5b.chunk.js.map",
+  "main.css": "/react-quote-app/static/css/main.a49c2cce.chunk.css",
+  "main.js": "/react-quote-app/static/js/main.025077df.chunk.js",
+  "main.js.map": "/react-quote-app/static/js/main.025077df.chunk.js.map",
+  "static/js/1.ac5c9e08.chunk.js": "/react-quote-app/static/js/1.ac5c9e08.chunk.js",
+  "static/js/1.ac5c9e08.chunk.js.map": "/react-quote-app/static/js/1.ac5c9e08.chunk.js.map",
   "runtime~main.js": "/react-quote-app/static/js/runtime~main.a705cdf5.js",
   "runtime~main.js.map": "/react-quote-app/static/js/runtime~main.a705cdf5.js.map",
-  "static/css/main.09d5a292.chunk.css.map": "/react-quote-app/static/css/main.09d5a292.chunk.css.map",
+  "static/css/main.a49c2cce.chunk.css.map": "/react-quote-app/static/css/main.a49c2cce.chunk.css.map",
   "index.html": "/react-quote-app/index.html",
-  "precache-manifest.72ec2097da3a889e09c0a7846e7e4c54.js": "/react-quote-app/precache-manifest.72ec2097da3a889e09c0a7846e7e4c54.js",
+  "precache-manifest.67b6223565d0ae3982825b8300b9d7bf.js": "/react-quote-app/precache-manifest.67b6223565d0ae3982825b8300b9d7bf.js",
   "service-worker.js": "/react-quote-app/service-worker.js"
 }
