@@ -18,7 +18,7 @@ export class QuoteContainer extends React.Component{
 
   }
   componentDidMount(){
-    const url = "http://api.quotable.io/random";
+    const url = "https://api.quotable.io/random";
     axios
      .get(url)
      .then(response => {
